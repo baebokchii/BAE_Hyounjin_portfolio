@@ -1,9 +1,9 @@
-Travel Concierge Multi-Agent System
+# Travel Concierge Multi-Agent System
 
-Fully Automated Travel Research + Itinerary Planning + Budget Estimation
-Built for the Kaggle x Google 5-Day Agents Intensive Capstone Project
+*Fully Automated Travel Research + Itinerary Planning + Budget Estimation*
+*Built for the Kaggle x Google 5-Day Agents Intensive Capstone Project*
 
-🚀 Overview
+## 🚀 Overview
 
 This repository contains my capstone project for the AI Agents Intensive Course with Google & Kaggle.
 The goal was to design and build a multi-agent travel concierge system capable of generating a full trip plan—research, itinerary, and budget—from a single user request.
@@ -24,9 +24,8 @@ Unlike typical “chatbot-style” travel agents, this system is fully modular, 
 
 This makes the agent practical, reliable, debuggable, and fully aligned with the course’s core learning objectives.
 
-⸻
 
-🧠 Why This Project? (Problem & Motivation)
+## 🧠 Why This Project? (Problem & Motivation)
 
 Travel planning is time-consuming and fragmented:
 	•	Research must be collected from multiple sources
@@ -37,9 +36,8 @@ Travel planning is time-consuming and fragmented:
 
 This system solves all of these problems by breaking tasks into specialized agents, each responsible for a well-defined output.
 
-⸻
 
-🎯 Solution Summary
+## 🎯 Solution Summary
 
 The system provides, from a single prompt:
 	1.	Destination Research Summary
@@ -48,9 +46,8 @@ The system provides, from a single prompt:
 
 Everything is generated automatically, with no follow-up questions required.
 
-⸻
 
-🏗 System Architecture
+## 🏗 System Architecture
 
 ┌─────────────────────────────────────────┐
 │         TravelCoordinatorAgent          │
@@ -75,7 +72,7 @@ Everything is generated automatically, with no follow-up questions required.
                            ▼
                    budget_summary
 
-🤖 Agents in Detail
+## 🤖 Agents in Detail
 
 1) TravelResearchAgent
 	•	Uses Google Search Tool
@@ -105,9 +102,8 @@ Everything is generated automatically, with no follow-up questions required.
 	•	Produces a clean, human-friendly final summary
 
 
-⸻
 
-▶ How to Run the Project
+## ▶ How to Run the Project
 
 1. Install dependencies
 pip install -q google-genai google-adk nest_asyncio
@@ -123,9 +119,8 @@ python capstone_project_for_ai_agents_intensive_course.py
 
 Or run it cell-by-cell in Google Colab.
 
-⸻
 
-🧪 Limitations & Future Improvements
+## 🧪 Limitations & Future Improvements
 
 Short-term additions
 	•	Memory Bank to remember user preferences
@@ -136,13 +131,11 @@ Long-term improvements
 	•	Hotel search using OpenAPI tool
 	•	Real map distance calculation via MCP server
 
-⸻
 
-⭐ Final Thoughts
+## ⭐ Final Thoughts
 
 This project represents a full application of the Agents Intensive Course concepts:
 multi-agent design, tools, code execution, and stateful workflows.
 
 It demonstrates how agents, when properly orchestrated, can solve complex problems more reliably than a single LLM prompt.
 
-⸻
