@@ -1,4 +1,4 @@
-# Data Portfolio – Hyounjin Bae
+# Portfolio – Hyounjin Bae
 
 This repository contains a curated collection of end-to-end data analysis projects 
 conducted using SQL, Python, visualization, machine learning, and dashboard technologies.
