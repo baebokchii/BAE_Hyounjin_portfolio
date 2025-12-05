@@ -10,37 +10,37 @@ Each notebook in this repository corresponds to a specific chapter or concept fr
 ## 2. Learning Objectives
 
 The primary goals of this project are:
-	•	To systematically understand the theoretical foundations of machine learning and deep learning.
-	•	To implement and test algorithms covered in the book using Jupyter Notebooks.
-	•	To build an independent study workflow using Python, scikit-learn, TensorFlow, and Matplotlib.
-	•	To gradually transition from textbook-level examples to self-directed projects.
+- To systematically understand the theoretical foundations of machine learning and deep learning.
+- To implement and test algorithms covered in the book using Jupyter Notebooks.
+- To build an independent study workflow using Python, scikit-learn, TensorFlow, and Matplotlib.
+- To gradually transition from textbook-level examples to self-directed projects.
 
 This repository is not only a learning log but also a foundation for future portfolio work in data science and AI.
 
 ## 3. Study Methodology
 
 Each chapter’s notebook includes the following structure:
-	1.	Key Concepts Summary — concise theoretical overview.
-	2.	Code Implementation — exercises and extended experiments.
-	3.	Commentary — observations and reflections after execution.
-	4.	Further Study Notes — related concepts or papers for deeper exploration.
+1. Key Concepts Summary — concise theoretical overview.
+2. Code Implementation — exercises and extended experiments.
+3. Commentary — observations and reflections after execution.
+4. Further Study Notes — related concepts or papers for deeper exploration.
 
 Learning and documentation are done sequentially by topic, emphasizing both comprehension and reproducibility.
 
 ## 4. Future Direction
 
 After completing this textbook-based series, I plan to:
-	•	Apply the learned concepts to real-world datasets (e.g., Kaggle, UCI).
-	•	Transition to deep learning frameworks and model optimization tasks.
-	•	Build mini-projects for classification, regression, and clustering.
-	•	Create visual dashboards or reports summarizing key learning milestones.
+- Apply the learned concepts to real-world datasets (e.g., Kaggle, UCI).
+- Transition to deep learning frameworks and model optimization tasks.
+- Build mini-projects for classification, regression, and clustering.
+- Create visual dashboards or reports summarizing key learning milestones.
 
 ## 5. Environment
-	•	Python 3.x
-	•	Jupyter Notebook
-	•	scikit-learn
-	•	pandas, numpy, matplotlib, seaborn
-	•	TensorFlow / Keras (for DL sections)
+- Python 3.x
+- Jupyter Notebook
+- scikit-learn
+- pandas, numpy, matplotlib, seaborn
+- TensorFlow / Keras (for DL sections)
 
 MIT License
 
