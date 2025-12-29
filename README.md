@@ -17,7 +17,7 @@ in Korea and Hong Kong.
 - Google Cloud Services
 - Prompt Engineering
 
-[View Project](./Kaggle_AI_Project)
+[View Project](./Kaggle_AI_Agent_Project)
 
 ---
 
