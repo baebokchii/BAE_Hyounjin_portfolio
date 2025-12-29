@@ -29,7 +29,7 @@ in Korea and Hong Kong.
 - Trend analytics
 - Business insights
 
-[View Project](./Project_1_SQL_EDA)
+[View Project](./SQL_EDA_Project)
 
 ---
 
