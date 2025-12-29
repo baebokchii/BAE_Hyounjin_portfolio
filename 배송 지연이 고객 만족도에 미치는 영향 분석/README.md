@@ -6,8 +6,11 @@
 주문 정보, 배송 일정, 고객 리뷰를 결합하여 배송 성과와 고객 반응 간의 관계를 수치화 하여 확인하고 운영 개선에 활용 가능한 인사이트를 도출할 예정입니다.
 
 프로젝트 기간 : 2025년 12월 26일 ~ 현재
+
 활용 데이터 셋 : Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 활용 언어 : SQL, Python
+
 시각화 툴 : Python, Tableau
 
 ## 2. 분석 배경과 문제 정의
