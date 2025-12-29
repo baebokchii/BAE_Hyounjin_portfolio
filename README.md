@@ -11,7 +11,17 @@ in Korea and Hong Kong.
 
 ## 📁 Portfolio Structure
 
-### 1. Project 1 – SQL-Based Exploratory Data Analysis
+### 1. AI Agent Building Course with Google
+*Tools: Kaggle, Google AI Studio, Google Cloud Console*
+- AI Agent
+- Google Cloud Services
+- Prompt Engineering
+
+[View Project](./Kaggle_AI_Project)
+
+---
+
+### 2. SQL-Based Exploratory Data Analysis
 *Tools: SQL (MySQL or PostgreSQL), Excel*
 - Data extraction
 - Summary statistics
@@ -23,7 +33,7 @@ in Korea and Hong Kong.
 
 ---
 
-### 2. Project 2 – Python Data Visualization & EDA
+### 3. Python Data Visualization & EDA
 *Tools: Python, Pandas, Seaborn, Matplotlib*
 - Feature analysis
 - Category-based visualization
@@ -34,7 +44,7 @@ in Korea and Hong Kong.
 
 ---
 
-### 3. Project 3 – Machine Learning Prediction Model
+### 4. Machine Learning Prediction Model
 *Tools: Scikit-learn, Python, SQL*
 - Feature engineering
 - Model comparison (LR, RF)
@@ -45,7 +55,7 @@ in Korea and Hong Kong.
 
 ---
 
-### 4. Project 4 – Final End-to-End Project
+### 5. Final End-to-End Project
 *Tools: Python, ML, NLP, SQL, Dashboard (Superset/Tableau), ChatGPT*
 - Problem definition
 - Data collection (API/WEB/Kaggle)
