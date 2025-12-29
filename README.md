@@ -23,6 +23,6 @@ Kaggle 환경과 Google AI Studio를 활용하여 프롬프트 설계와 에이�
 
 ## Contact
 
-## [Email]<a href="mailto:alexbaehj@gmail.com">Send</a>
+<a href="mailto:alexbaehj@gmail.com">Email</a>
 
-## [LinkedIn](https://linkedin.com/in/hjbae01/)
+[LinkedIn](https://linkedin.com/in/hjbae01/)
