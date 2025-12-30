@@ -1,0 +1,17 @@
+SELECT
+	customer_state,
+	COUNT(*) AS total_orders,
+	SUM(is_delayed) AS delayed_orders,
+	ROUND(SUM(is_delayed) / COUNT(*) * 100, 2) AS delay_rate_pct,
+	AVG(review_score) AS avg_review_score
+FROM
+	`raw data`.v_analysis_base
+WHERE
+	review_score IS NOT NULL
+GROUP BY
+	customer_state
+HAVING
+	COUNT(*) >= 100
+ORDER BY
+	delay_rate_pct DESC
+;
