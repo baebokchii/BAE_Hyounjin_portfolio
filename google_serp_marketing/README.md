@@ -17,7 +17,7 @@ SEO 전략과 Google Ads A/B 테스트를 설계하고 성과 데이터를 분�
 1. **長者服務 (Elderly Services)**  
    노인 돌봄 및 지역 장자 서비스
 
-2. **非華語學童支援服務 (NCS)**  
+2. **非華語學童支援服務 (Supporting Service for NCS (Non-Chinese speaking student))**  
    비중국어권 학생 및 학습 지원 서비스
 
 3. **SEN 支援服務 (Special Educational Needs)**  
