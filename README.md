@@ -36,9 +36,9 @@ Google AI Studio
 Google Cloud Console
 
 핵심 내용
-	•	AI Agent 구조 및 실행 흐름 이해
-	•	Prompt Engineering 실습
-	•	Google Cloud 기반 실행 환경 구성
+- AI Agent 구조 및 실행 흐름 이해
+- Prompt Engineering 실습
+- Google Cloud 기반 실행 환경 구성
 
 ## Contact
 
